@@ -1,4 +1,4 @@
-# rn-boy&girl 🐳
+# reactnative-boy&girl 🐳
 
 ![Stars](https://img.shields.io/github/stars/tquangdo/rn-expo-notifications-boy-girl?color=f05340)
 ![Issues](https://img.shields.io/github/issues/tquangdo/rn-expo-notifications-boy-girl?color=f05340)
@@ -7,6 +7,7 @@
 
 ## Usage
 scan bar code on `expo go` appstore
+************************
 ![demo](screenshots/1.jpg)
 ![demo](screenshots/2.jpg)
 ![demo](screenshots/3.jpg)
