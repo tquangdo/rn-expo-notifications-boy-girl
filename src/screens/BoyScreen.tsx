@@ -19,7 +19,7 @@ async function registerForPushNotificationsAsync() {
     return token_from_expo
 }
 
-const BoyScreen: React.FC = () => {
+const BoyScreen: React.FC = () => { // Function Component, clear declaration of Typescript
     const [sta_token, setSta_Token] = React.useState<IFToken | undefined>()
 
     React.useEffect(() => {
